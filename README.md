@@ -1,5 +1,7 @@
 # Neo4j-assignment-information-architecture
 Lab 5: Graph databases and Neo4j
+Reference: https://github.com/InformationArchitecture-YU/Lab-05
+
 Overview
 Neo4J is a NoSQL graph database that utilizes the Cypher query language. Graph databases are, optimized for managing relationships and networks. In this lab, we will start a Neo4j server using Neo4j AuraDB, Neo4j’s fully managed graph database as a service (DBaaS) offering. After installation, we will connect to the Neo4J instance in the cloud using the Neo4J browser. Follow the steps outlined below to connect to your Neo4J instance and begin loading and manipulating the data.
 
